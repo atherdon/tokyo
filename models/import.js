@@ -649,7 +649,7 @@ var data = [
    "Website": "http://www.pinkyanddianne.com",
    "Description": "Pinky & Dianne is a Japanese clothing label started by two American designers, Pinky Wolman and Dianne Beaudry. The two brand, currently one of the most successful domestic women’s fashion labels in Japan with more than $100 million in revenue and 80 store locations in Japan, is currently run and designed by Japanese designers as the two creators and the company’s namesakes have moved to new projects.",
    "Logo": "http://www.pinkyanddianne.com/common/img/logo_pinky_and_dianne.png",
-   "": ""
+   
  },
  {
    "Name": "Ravijour",
@@ -657,7 +657,7 @@ var data = [
    "Website": "https://www.ravijour.com",
    "Description": "Ravijour is a Japanese fashion label and designer of lingerie. Often called the Victoria’s Secret of Japan, ravijour combines many popular western elements in under garments and lingerie with a wide variety of different styles and designs from the fashion community.",
    "Logo": "https://www.ravijour.com/images_ravi/header_logo.png",
-   "": ""
+   
  },
  {
    "Name": "Rip Van Winkle",
@@ -665,7 +665,7 @@ var data = [
    "Website": "http://www.ripvanwinkle.jp",
    "Description": "Rip Van Winkle (リップヴァンウィンクル) is a cutting edge Japanese men's clothing brand started by designers Naoki Shirotani and Masao Ono in 1997. The brand is known for their cool often dark designs and high quality production.",
    "Logo": "http://www.ripvanwinkle.jp/common/img/menu_logo.png",
-   "": ""
+   
  },
  {
    "Name": "Ritsuko",
@@ -689,7 +689,7 @@ var data = [
    "Website": "http://www.sanyo-shokai.co.jp",
    "Description": "Sanyo Shokai is a Japanese textile company based out of Tokyo. The company is one of the oldest modern fashion companies in Japan and has extended its reach in recent decades to multiple countries, including the United States, and multiple nations in Europe and Asia. Though Sanyo Shokai has been known mostly as a company that supplies textiles and clothing, they have also managed to develop a decent following of customers interested in their low cost, affordable fashions.",
    "Logo": "http://www.sanyo-shokai.co.jp/brand/img/top/header/header-title.jpg",
-   "": ""
+   
  },
  {
    "Name": "Satory Tanaka",
@@ -697,7 +697,7 @@ var data = [
    "Website": "http://www.satorutanaka.net",
    "Description": "Satoru Tanaka is a Japanese fashion designer and establisher of the brand, S.T.A.F. His work has been shown in multiple worldwide collections and has earned him much acclaim. He has worked extensively in recent years in developing a brand in his own name, now operating three separate labels under the Satoru Tanaka name.",
    "Logo": "http://www.satorutanaka.net/common/img/SATORUTANAKAlogo.png",
-   "": ""
+   
  },
  {
    "Name": "Sex Pot Revenge",
@@ -705,7 +705,7 @@ var data = [
    "Website": "http://www.cdjapan.co.jp/brand/100000101?page=1&order=new&term.shop=apparel",
    "Description": "Sex Pot Revenge is a Japanese clothing line based out of Harajuku in Tokyo, Japan. The brand focuses on providing clothing in the punk style with an emphasis on flamboyance and classic punk mentality. A recent addition to the quickly growing punk clothing scene in Japan, Sex Pot Revenge has used a more direct approach in acquiring music partners and collaborators.",
    "Logo": "http://st.cdjapan.co.jp/pictures/cms/a/spt_350x200.jpg",
-   "": ""
+   
  },
  {
    "Name": "Skull Jeans",
@@ -713,7 +713,7 @@ var data = [
    "Website": "http://fabfour.co.jp/main/",
    "Description": "Skull Jeans is a brand of Japanese clothing specializing in denim.\nThe stylish look of today has been represented by many brands with Skull Jeans on the top of most popular lists. As the name would suggest, Skull Jeans focuses primarily on jeans for both men and women looking to stay on track with modern day trends. The types of styles include bush pants, bell bottoms, super slim, hip hang boot-cut, hip hang tight, traditional slim, low-rise, and many other styles less popular today but possibly the look of tomorrow. While the overall design of each pair of jeans is simple the quality, appearance, and overall structure of each piece has been designed to perfection. The idea behind each design is to create a fresh platform but allow the owner to represent their own unique look.\nSkull Jeans has taken on a seemingly impossible task by creating a collection that works for both men and women. Still designing for each category individually, they have found great status in the fashion world for putting together a jean perfect for essentially anyone. To help you create your best look Skull Jeans also offers many accessories done in true Skull Jeans style. There are shoes, bags, underwear and trinket accessories such as pins, jewelry, hair ties, etc.",
    "Logo": "https://pbs.twimg.com/profile_images/2734146893/7fc9878476bbcdd2e4d6ef1eda7d7ff8.jpeg",
-   "": ""
+   
  },
  {
    "Name": "Soe Tokyo",
@@ -729,7 +729,7 @@ var data = [
    "Website": "http://www.somarta.jp",
    "Description": "Somarta is a Japanese clothing brand started by Tamae Hirokawa. Hirokawa, who originally worked with Issey Miyake in the Miyake Design Studio in the 1990s debuted with Somarta over the course of two years in 2006. The brand focuses on the use of lace, knit, and macramé among many other design methods that have been quite popular with the Japanese fashion magazines and press.",
    "Logo": "http://www.somarta.jp/images/somarta_logo.png",
-   "": ""
+   
  },
  {
    "Name": "Sophnet",
@@ -737,7 +737,7 @@ var data = [
    "Website": "http://www.soph.net/index.html#",
    "Description": "Sophnet is a Japanese clothing brand designed and created by Hirofumi Kiyonaga. The brand is one of three brands operated and designed by Kiyonaga and represents a middle ground for the more casual FCRB and refined Uniform Experiment lines. Examples from Sophnet collections include knits and polos, a middling ground between casual wear and sophistication.",
    "Logo": "http://www.soph.net/assets/images/common/header_logo.png",
-   "": ""
+   
  },
  {
    "Name": "Studio d'Artisan",
@@ -745,7 +745,7 @@ var data = [
    "Website": "https://www.sonofastag.com/collections/studio-d-artisan",
    "Description": "Studio d'Artisan is a Japanese clothing company well known for its denim production. Each product produced by Studio d’Artisan is emblazoned with prints of pigs, also included in their logo. Recent legal issues with Levi’s Strauss & Co. in the United States has made the import of the product harder in the US, but worldwide demand is still high.",
    "Logo": "http://fashionstealer.com/PICTURES/brands/studiodartisan_logo.jpg",
-   "": ""
+   
  },
  {
    "Name": "Sunao Kuwahara",
@@ -753,7 +753,7 @@ var data = [
    "Website": "https://www.yelp.com/biz/sunao-kuwahara-大阪市",
    "Description": "Sunao Kuwahara (スナオクワハラ) is a popular Japanese fashion designer and also the name of a fashion brand created by the designer himself. The name of the clothing brand is usually written \"sunaokuwahara\" rather than Sunao Kuwahara. The fashion brand targets consumers similar to other brands like Issey Miyake and Tsumori Chisato but focusing on a more introspective and intellectual subset of people.",
    "Logo": "http://www.japanesestreets.com/media/363.gif",
-   "": ""
+   
  },
  {
    "Name": "Super Lovers",
@@ -761,7 +761,7 @@ var data = [
    "Website": "http://www.superlovers.jp",
    "Description": "Super Lovers is a Japanese clothing brand catering to teenagers in Japan. The brand is known for its use of popular cartoon characters and imagery on their clothing and accessories and has recently become well known in other parts of the globe.",
    "Logo": "http://www.japanesestreets.com/media/19793.jpg",
-   "": ""
+   
  },
  {
    "Name": "Taishi Nobukuni",
@@ -769,7 +769,7 @@ var data = [
    "Website": "http://www.taishi-nobukuni.co.jp",
    "Description": "Taishi Nobukuni is a Japanese designer well known for his work with label Takeo Kikuchi. Recently, Nobukuni has started and operated under his own label, Taishi Nobukuni, and produced clothing that reflects his own beliefs and concerns, largely political and ethnic in nature. Integrating the same style of street wear that Nobukuni injected in the Takeo Kikuchi line, Nobukuni’s own line of clothing has been well received by both the Japanese street fashion magazines and the International fashion community.",
    "Logo": "http://www.taishi-nobukuni.co.jp/img/taishinobukuni.png",
-   "": ""
+   
  },
  {
    "Name": "Takeo Kikuchi",
@@ -777,7 +777,7 @@ var data = [
    "Website": "http://store.world.co.jp/s/takeokikuchi/index.html",
    "Description": "Takeo Kikuchi is well known as a Japanese designer in both industry and fashion. His work includes the acclaimed Takeo Kikuchi clothing line as well as a wide array of eyewear frames and time pieces. Kikuchi’s role in the design of his clothing brand ended in 2004 when he stepped down from his role of head designer, handing over the reins to Taishi Nobukuni. Nobukuni has since gone on to start his own label but the time spent at the head of Takeo Kikuchi introduced a vintage/contemporary cross over style that rejuvenated the label both commercially and critically.\nTakeo Kikuchi’s most famous line has been its menswear collection, developed after Kikuchi left his previous role as the lead designer of Mens Bigi, a highly popular men’s label in Japan. After it had been publicly pursued by World Co, a large apparel company in Kobe, Japan, the Takeo Kikuchi brand of menswear took off and became widely recognized as a top brand in Japan, quickly spreading its influence to Korea and China. The success was largely attributed to the uniquely Asian style of the cuts that combined the luxury of European styles and brands with the sensibility and fit of the domestic brands. After Taishi Nobukuni took over the creative lead at Takeo Kikuchi, the design changed to reflect the current streetwear culture in Japan, bringing in a sense of retro style that was previously unseen in the otherwise conservative label’s designs.",
    "Logo": "http://store.world.co.jp/s/takeokikuchi/common_official/img/h1_takeo_black.png",
-   "": ""
+   
  },
  {
    "Name": "The Viridi-anne",
@@ -785,7 +785,7 @@ var data = [
    "Website": "http://www.viridi-anne.jp",
    "Description": "The Viridi-anne (ｻﾞ・ｳﾞｨﾘｼﾞｱﾝ) is a Japanese fashion brand created by Tomoaki Okaniwa in 2001. The brand is known for high end men's clothing which mix classic ideas with cutting edge materials and designs. Available clothing items include coats, leather jackets, skinny pants, and boots. The Viridi-anne insists on top quality manufacturing and tailoring. Starting in 2006, The Viridi-anne began to have their own seasonal fashion exhibitions in Paris, France.",
    "Logo": "http://www.viridi-anne.jp/img/common/logo.gif",
-   "": ""
+   
  },
  {
    "Name": "The Tokyo Girls Collection",
@@ -793,7 +793,7 @@ var data = [
    "Website": "http://girlswalker.com/tgc/17ss/",
    "Description": "The Tokyo Girls Collection (TGC) is a twice annual Tokyo fashion event first launched in 2005. The event’s purpose is to highlight the newest and most fashionable street wear being produced by Japanese labels and brands, with some of the nation’s most famous models brought in to present them. The event is unique in that it is open to journalists and buyers as well as the general public and includes a wide array of alternate entertainment such as concerts and auctions.\nThe event has been broadcast since its inception by the company that runs it, GirlsWalker.com, through cell phones and via the Internet. Another unique aspect of the show is that the products being promoted by the fashion models are almost always available for immediate purchase at the show.",
    "Logo": "http://girlswalker.com/tgc/17ss/wp-content/themes/17ss/images/common/logo.svg",
-   "": ""
+   
  },
  {
    "Name": "Tomorrowland",
@@ -801,7 +801,7 @@ var data = [
    "Website": "http://www.tomorrowland.co.jp",
    "Description": "",
    "Logo": "http://www.tomorrowland.co.jp/new2015/images/coltdlogo.gif",
-   "": ""
+   
  },
  {
    "Name": "",
@@ -809,7 +809,7 @@ var data = [
    "Website": "http://www.spic-int.jp/brand/1",
    "Description": "Tornado Mart (トルネードマート) is a Japanese men's clothing brand founded in 1993 by Spic International. Tornado Mart fashion targets stylish Japanese young men who prefer a thin silhouette style including slim jeans, shirts, and hip leather jackets. The line also includes accessories, often with gold or silver trim.",
    "Logo": "http://www.spic-int.jp/thumbnail/160x160c/brand/1/1345188849.jpg",
-   "": ""
+   
  },
  {
    "Name": "Uniqlo",
@@ -817,7 +817,7 @@ var data = [
    "Website": "https://www.uniqlo.com/us/en/home/",
    "Description": "UNIQLO is a designer and worldwide chain of casual wear retailers consisting of more than 760 locations, and making it one of the 10 largest such chains in the world. As a household name in Japan and growing force overseas, UNIQLO also consists of brand names Cabin, OneZone, Foot Park, View Company, ASPESI, Theory, Comptoir Des Ctonniers, and Princess tam.tam in Japan, the United States, and France.",
    "Logo": "https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1487885972038/images/sprite-uniqlo.png",
-   "": ""
+   
  },
  {
    "Name": "Undercover",
@@ -825,7 +825,7 @@ var data = [
    "Website": "https://hbx.com/brands/undercover",
    "Description": "Undercover (sometimes called Undercoverism) is a Japanese streetwear clothing brand founded by Jun Takahashi. The brand has been called \"the essence of Japanese cool\" and features finely crafted clothing pieces which are, in the words of Takahashi himself, \"strange, but beautiful\". Undercover has won numerous awards and been lauded by other fashion designers including Miuccia Prada and Rei Kawakubo.",
    "Logo": "http://www.undercoverism.com/common/img/logo.svg",
-   "": ""
+   
  },
  {
    "Name": "United Arrows",
@@ -833,7 +833,7 @@ var data = [
    "Website": "http://www.united-arrows.co.jp/index.html",
    "Description": "United Arrows is a Japanese fashion label and clothing company based out of Tokyo. The company has grown since its inception in 1989 to include a wide array of brands and international connections with products being sold in department stores and Unites Arrows stores around the globe.",
    "Logo": "http://www.united-arrows.co.jp/common/imgs/header/logo-ltd.gif",
-   "": ""
+   
  },
  {
    "Name": "United Bamboo",
@@ -841,7 +841,7 @@ var data = [
    "Website": "http://unitedbamboo.com",
    "Description": "‘’’United Bamboo’’’, the fashion collective developed by Japanese designer Miho Aoki and Vietnamese designer Thuy Pham, is best known for its artistic approach to fashion and cross cultural mashup of mediums in music, fashion, and art.",
    "Logo": "http://unitedbamboo.com/wp-content/themes/unitedbamboo/images/logo.png",
-   "": ""
+   
  },
  {
    "Name": "Eri Utsugi",
@@ -849,7 +849,7 @@ var data = [
    "Website": "http://www.mercibeaucoup.jp",
    "Description": "Eri Utsugi is the founder and lead designer of Japanese fashion label mercibeaucoup. The label, under the Issey Miyake A-Net company has become highly popular since its founding, presenting a wide array of quirky menswear and women’s clothing options.",
    "Logo": "http://www.mercibeaucoup.jp/common/images/logo.png",
-   "": ""
+   
  },
  {
    "Name": "Vaporize",
@@ -857,7 +857,7 @@ var data = [
    "Website": "http://jamesiha.chu.jp/jamesiha/top.html",
    "Description": "Vaporize (previously \"Vapor\") is a clothing brand founded by Japanese-American Smashing Pumpkins guitar player James Iha. The Vaporize fashion brand is available in Japan through Beams. The style of the clothing in the brand is inspired by the looks of the 1960's and 1970's which is similar to the clothing that James Iha himself is known to wear.",
    "Logo": "http://jamesiha.chu.jp/jamesiha/v.jpg",
-   "": ""
+   
  },
  {
    "Name": "Visvim",
@@ -865,7 +865,7 @@ var data = [
    "Website": "http://www.visvim.tv",
    "Description": "Visvim is a Japanese shoe and clothing line run by creative director Hiroki Nakamura. The goal of the line is to provide high quality shoes and products that conform to both design and environmental standards set by Nakamura.",
    "Logo": "http://www.visvim.tv/shared/img/logo_visvim_wmv.png",
-   "": ""
+   
  },
  {
    "Name": "W)Taps",
@@ -873,7 +873,7 @@ var data = [
    "Website": "http://jamesiha.chu.jp/jamesiha/top.html",
    "Description": "W)Taps is a Japanese fashion label that produces street wear. W)Taps’ lead designer, Tetsu Nishiyama (TET) has been a leading figure in the field of streetwear design for some time now, producing large ranges of quality clothing that utilizes both western and Japanese style aesthetics to bring a punk imbued style to the Shibuya, Harajuku market. Tetsuya Nishiyama is currently the creative director of both Blackflag in Aoyama, Tokyo and of Hoods, a conceptual shop that has locations in Japan and various strategic locations in Europe and North America. He has also worked as the chief editor of the free, street culture magazine, Philosophy Zine, which is currently not in print.",
    "Logo": "http://www.wtaps.com/common/img/logo_top.png",
-   "": ""
+   
  },
  {
    "Name": "Wacko Maria",
@@ -881,7 +881,7 @@ var data = [
    "Website": "http://wackomaria.co.jp",
    "Description": "\nMUSIC IS THE TRIGGER OF IMAGINATIONS\n\n”IF IT WERE SAID OF US THAT WE’RE ALMOST ROMANTICS, THAT WE ARE INCORRIGIBLE IDEALISTS, THAT WE THINK THE IMPOSSIBLE: THEN A THOUSAND AND ONE TIMES WE HAVE TO ANSWER ‘YES WE ARE‘“ (ERNEST CHE GUEVARA)\n\nWACKO MARIA (ワコマリア) is a Japanese clothing brand.\nESTABLISHED IN 2005.\n\n\nWITH MUSIC AS THE BASIS OF OUR FOUNDATION, WE PROPOSE A STYLE THAT FEELS THE SENSE OF ROMANCE AND GLAMOUR.\nEVERY SEASON, WE DRAW INSPIRATION FROM OUR EVERYDAY EXPERIENCES. INFLUENCED BY MUSIC, FILMS, AND ART, WE INSTILL THESE MESSAGES INTO EACH AND EVERYONE OF OUR CREATIONS; EXPRESSING THESE IDEALS THROUGH UNIQUE ORIGINALITY AND AUTHENTIC CRAFTSMANSHIP.\nWE BELIEVE ONE CANNOT CREATE BEAUTIFUL THINGS NOR LEAD A BEAUTIFUL LIFE WITHOUT LOVE, DREAMS AND PASSION.\nWITHOUT A DOUBT, ONE MUST ALWAYS SEEK PERFECTION.\nWITH THIS MIND, GUILTY PARTIES WILL CONTINUE TO PURSUE MAKING THINGS WE TRULY BELIEVE IN.\nIN RECENT YEARS, OUR WORK WITH ACCLAIMED INDEPENDENT FILM DIRECTOR, JIM JARMUSH , ALONG WITH A SERIES OF COLLABORATIVE PRODUCTS MADE WITH PROGRESSIVE COLLAGE ARTIST WEIRDO DAVE, HAVE VIGOROUSLY GARNERED MUCH ATTENTION.\nIN 2011, WE STARTED ART PROJECT FOR OUR LATEST COLLECTION LOOK BOOK WORKING WITH WORLD ACCLAIM ARTISTS. OUR COLLABORATE ARTISTS INCLUDING TSUYOSHI NOGUCHII, NEW YORK BASED ENERGETIC PHOTOGRAPHER TIM BARBER, AND THE LEGENDARY PHOTOGRAPHER/FILM DIRECTOR LARRY CLARK.",
    "Logo": "http://wackomaria.co.jp/wp-content/themes/wackomaria2015aw/images/gp-logo.png",
-   "": ""
+   
  },
  {
    "Name": "Ato Matsumoto",
@@ -889,7 +889,7 @@ var data = [
    "Website": "http://www.ato.jp",
    "Description": "Kanye West has been a fashion trends setter ever since he had the chance toshine in the music industry. Kanye west has been seen wearing Japanese-anime inspired clothing and shoes in the \"Stronger\" video. The Kanye West shoe that stands out the most from the \"Stronger\" video and has everyone scrambling touncover the name is the ATO MATSUMOTO shoes.\nThe ATO MATSUMOTO cow hide boots are extremely unique and come in Red, Black, White, Gold and Grey.\nThese shoes are extremely unique and can not be found in any retail store in the United States. They are currently only available in Japan and other parts of Asia making them very difficult to find anywhere.\nFor those of you who are interested in buying a pair of these exclusive ATO MATSUMOTO or Kanye West shoes, you are in luck. Trends Depot has them in stock in limited quantity and ready to ship to the lucky buyers. At the price of 200 dollars, the shoes are being sold at a very reasonable price. They retail for over 300 dollars in most stores. Trends Depot has the shoes in all the color ways you can ask for; red on red, black on black, white on white, gold on gold, silver on silver and many other sought after color ways.\nBe the first in your Home, School, Job, City, and State to own a pair of these HOT \"futuristic\" style kicks! ",
    "Logo": "http://www.ato.jp/common/img/common/logo.gif",
-   "": ""
+   
  },
  {
    "Name": "Wjk",
@@ -897,7 +897,7 @@ var data = [
    "Website": "http://www.wjk.jp",
    "Description": "wjk is a Japanese clothing brand founded by Jun Hashimoto which specializes in high quality leather jackets, shoes, boots, and denim. The wjk brand also produces a variety of other fashion items and in 2006 branched out into furniture as well.",
    "Logo": "http://www.wjk.jp/images/common/id.gif",
-   "": ""
+   
  },
  {
    "Name": "World Wide Love",
@@ -905,7 +905,7 @@ var data = [
    "Website": "http://www.wwl.co.jp",
    "Description": "World Wide Love (ワールドワイドラブ) is a Japanese clothing brand for young and hip Japanese men and women. The company was founded in 1993. The brand's style might be called \"rock chic\". Wold Wide Love shares some stylistic similarities with other popular Japanese music-inspired fashion brands like Hysteric Glamour, though World Wide Love's prices tend to be lower than HG.",
    "Logo": "http://www.wwl.co.jp/img/logo_main.png",
-   "": ""
+   
  },
  {
    "Name": "Writtenafterwards",
@@ -913,7 +913,7 @@ var data = [
    "Website": "http://www.writtenafterwards.com/home",
    "Description": "writtenafterwards (リトゥンアフターワーズ) or \"written afterwards\" is a Japanese fashion brand created by designers Yoshikazu Yamagata and Kentaro Tamai in April 2007. The label is young, but the designers say that their line is fashion label for lady's real clothing and they want to take fashion design beyond simply clothing and link it to \"education, society, culture, and environment\".",
    "Logo": "http://www.writtenafterwards.com/common/images/img_site-id.gif",
-   "": ""
+   
  },
  {
    "Name": "Yohji Yamamoto",
