@@ -7,7 +7,7 @@
     "lodash": "^4.13.1",
     "pug": "2.0.0-rc.4",
     "stylus": "0.54.5",
-    "dotenv": "4.0.0",
+    "dotenv": "5.0.0",
     "keystone-email": "1.0.5",
     "async": "2.6.0"
   },
