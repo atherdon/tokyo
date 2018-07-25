@@ -8,7 +8,7 @@
     "pug": "2.0.3",
     "stylus": "0.54.5",
     "dotenv": "5.0.1",
-    "keystone-email": "1.0.5",
+    "keystone-email": "1.1.0",
     "async": "2.6.0"
   },
   "devDependencies": {
